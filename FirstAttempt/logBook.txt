@@ -1,29 +1,17 @@
-The first attempt is merely an example of the phrase "Make it exist first, 
-you can make it good later"
+This is the playground logbook!
+reminder, to add dates you go cmd + shift + ideally
 
-So in order to keep myself in line, ill set up a simple explanation of what this first attempt
-MUST do and then, what it will ideally do
+2026-02-03 13:02:07 -----
+Ok, so to make lines we use the function path, composed of two vital parts
+(well four but... just read)
+ctx.moveTo(x,y) the starting point
+ctx.lineTo(x,y) where line ends
 
---- MUST ---
-1. Open as a website
-2. Have a working canvas, have it draw at the very least
-3. Store any line made (or rather the info needed to recreate it) locally
-4. Recreate any line stored
+So clearly all we need to figure out is how to make it so that the cursor can be read;
 
---- Extras --- 
-1. Communicate through json and an api
-2. be accesible online, or rather, on our network
+1. Where is cursor
+2. if left click, thats the coordinate we begin in
+3. left click again, thats the end
+4. draw and save.
 
-On the third of february of 2026 at 11:27 we begin.
 
------ Notes Feb032026
-ok, if i want to keep stuff safe, its clear that wherever i save the info, must be hidden in the github
-and i also need to make the website file be like, its own thing
-yeah
-ig?
-
-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage Fantastic tutorial
-
-2026-02-03 12:18:25 --- 
-it was actually a little earlier but went looking for a little something to add dates more easily.
-We have a square! a first step thats quite small sure but a first step nonetheless
