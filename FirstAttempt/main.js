@@ -6,7 +6,7 @@ function draw() {
         const ctx = canvas.getContext("2d");
         // so to be able to clarify the context in which we will be drawing (2d)
         ctx.fillStyle = "rgb(200,0,0)";
-        ctx.fillRect(10, 0, 20, 20)
+        ctx.fillRect(10, 10, 50, 50);
     }
     else{
         // canvas-unsupported code here
