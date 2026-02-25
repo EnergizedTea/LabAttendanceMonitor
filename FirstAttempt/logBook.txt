@@ -17,3 +17,5 @@ So clearly all we need to figure out is how to make it so that the cursor can be
 2026-02-25 14:11:54
 w o w its been a while. 
 
+2026-02-25 14:59:04
+Ight then, time for uhhhhh yeah, trying triangles and paths in general
