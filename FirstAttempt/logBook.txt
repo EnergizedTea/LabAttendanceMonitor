@@ -1,5 +1,5 @@
 This is the playground logbook!
-reminder, to add dates you go cmd + shift + ideally
+reminder, to add dates you go cmd + shift + i ,ideally
 
 2026-02-03 13:02:07 -----
 Ok, so to make lines we use the function path, composed of two vital parts
@@ -14,4 +14,6 @@ So clearly all we need to figure out is how to make it so that the cursor can be
 3. left click again, thats the end
 4. draw and save.
 
+2026-02-25 14:11:54
+w o w its been a while. 
 
