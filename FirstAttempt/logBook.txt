@@ -27,3 +27,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
 2026-02-03 12:18:25 --- 
 it was actually a little earlier but went looking for a little something to add dates more easily.
 We have a square! a first step thats quite small sure but a first step nonetheless
+
+2026-02-25 14:18:13 -----
+
+been a while but here i am.
+Testign rescaling
+ok when using css i need to clarify not by the name of the function (as in generic name such as canvas) but by the id I designated (i.e. myCanvas)
